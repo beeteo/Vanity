@@ -1,0 +1,4 @@
+requests
+Consolly
+easygui
+colorama
